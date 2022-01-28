@@ -1,7 +1,5 @@
-"""Python Script to Add Two No."""
-a=float(input("Enter first No. : "))
-b=float(input("Enter Second No. : "))
-sum=a+b
-print("The addition of your numbers is : ", sum)
-print('this program is made by @trixsearch for Technorigger')
-"""Here Script is end"""
+#Script to find the area of the circle using radius
+print("Assignment 2 , to print the Area of circle")
+r=float(input("Write the radius of the circle : "))
+area=3.14*r*r
+print ("Your area of the circle will be : " , area)
