@@ -5,7 +5,9 @@ Maybe there are chances that Technorigger site is alive [Click here to check](ht
 
 If there is nothing new you can also visit my website too as [Tackmac](https://tackmac.blogspot.in)
 
-**Update**: From a long time I revived my coding skills to my new repository [CPlusPlus](https://github.com/trixsearch/CPlusPlus) go ahead and check it by [clicking here](https://github.com/trixsearch/CPlusPlus) 
+**Update**: From a long time I revived my coding skills to my new repository [CPlusPlus](https://github.com/trixsearch/CPlusPlus) go ahead and check it by [clicking here](https://github.com/trixsearch/CPlusPlus)
+
+Try my portfolio for more exciting things [trixsearch](https://trixsearch.github.io/)
 
 #### Assignments are here
 - [Assignment 1 - Adding Two No. Input taken by the user](https://github.com/trixsearch/Technorigger-Assignments/blob/925ca327cd095ce8fffea1fb4396cac4e5c72bd7/ass1.py)
